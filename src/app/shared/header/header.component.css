@@ -1,0 +1,12 @@
+.top-icon i{
+
+    margin-right: 1.5rem;
+}
+
+
+.top-bar{
+    display: flex;
+    justify-content: right;
+    align-items: flex-end;
+      
+}

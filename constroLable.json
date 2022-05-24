@@ -1,0 +1,34 @@
+
+
+[
+   {   "id":1,
+       "mainHeader":"home",
+       "subHeader":[
+            {"id": 11, "subheaderName": "About us" },
+            {"id": 12, "subheaderName": "Future work" },
+            {"id": 13, "subheaderName": "offers" }
+        ]
+   },
+   {
+    "id":2,
+    "mainHeader": "Services",
+       "subHeader":[
+        {"id": 14, "subheaderName": "Construction Consultant" },
+        {"id": 15, "subheaderName": "Resconstruction Service" },
+        {"id": 16, "subheaderName": "Architectural Design" },
+        {"id": 17, "subheaderName": "Design and Construction" },
+        {"id": 18, "subheaderName": "Green building" },
+        {"id": 19, "subheaderName": "House Renovation" }
+       ]
+   },
+   {
+    "id":2,
+    "mainHeader": "Portfolio",
+    "subHeader":[
+        {"id": 20, "subheaderName": "Commercial" },
+        {"id": 21, "subheaderName": "Education" },
+        {"id": 22, "subheaderName": "Industrial" },
+        {"id": 23, "subheaderName": "Residential" }
+    ]
+    } 
+]
